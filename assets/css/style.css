@@ -3,3 +3,17 @@ body {
     background-color: black;
     color:darkgrey;
 }
+
+.barranav {
+    background-color: transparent;
+}
+
+.tarjeta {
+    background-color: #12a1a5 ;
+    color: white;
+}
+
+.footer {
+    background-color: #12a1a5 ;
+    color: white;
+}

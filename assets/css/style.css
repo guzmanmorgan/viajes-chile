@@ -8,6 +8,11 @@ body {
     background-color: transparent;
 }
 
+.div-icono {
+    background-color: #12a1a5 ;
+    color: white;
+}
+
 .tarjeta {
     background-color: #12a1a5 ;
     color: white;

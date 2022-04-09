@@ -5,7 +5,12 @@ body {
 }
 
 .barranav {
-    background-color: transparent;
+    transition:500ms ease;
+    background:transparent;
+}
+
+.barranav.scrolled {
+    background:#12a1a5;
 }
 
 .div-icono {
@@ -16,6 +21,10 @@ body {
 .tarjeta {
     background-color: #12a1a5 ;
     color: white;
+}
+
+.btn-formilario {
+    background-color: #12a1a5;
 }
 
 .footer {

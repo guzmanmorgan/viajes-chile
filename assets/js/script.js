@@ -16,11 +16,11 @@ $(document).ready(function () {
 		$('#myInput').trigger('focus')
 	})
 
-
-
-
-
-
-
+	//ALERTA 
+	$('#send').click(function () {
+        alert("Datos enviados correctamente");
+    });
 
 });
+
+

@@ -2,3 +2,20 @@ REPOSITORIO
 
 https://github.com/guzmanmorgan/viajes-chile
 
+
+BOOTSTRAP
+- Nabvar.
+- Card.
+- Form.
+
+JAVASCRIPT
+- Cambio de color barra navbar.
+- Tooltip al posicionar el mouse sobre imagen de la card en seccion destacados. 
+- Modal al presionar boton en cards seccion destacados.  
+
+VERSIONES UTILIZADAS
+- BOOTSTRAP 5.1
+- JQUERY 3.6.0
+
+
+
